@@ -20,3 +20,46 @@ h1{
   color:#66BFBF;
   line-height:1.5;
 }
+h2{
+  font-size:2.5rem;
+  font-weight:normal;
+  color:#66BFBF;
+}
+h3{
+  color:#11999E;
+}
+a{
+  color:#11999E;
+}
+.img{
+  margin-top:100px;
+  width:12%;
+  background-color: lightgoldenrodyellow;
+  border-radius: 1000px;
+}
+
+.cloud1{
+  position: absolute;
+  top:90px;
+  right:600px;
+
+}
+.cloud2{
+  position:absolute;
+  left:370px;
+  bottom:350px;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+  line-height: 2;
+}
+.skill-row1{
+  line-height: 2;
+}
+.lang{
+  width:18%;
+  float:left;
+  margin-right:30px;
+}
