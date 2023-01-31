@@ -63,3 +63,48 @@ a{
   float:left;
   margin-right:30px;
 }
+.langs{
+  float:right;     
+  margin-left:30px;
+  width:18%;
+}
+.contact-me{
+  margin-bottom:80px;
+}
+.footer-link{
+  margin-right:30px;
+}
+.button{
+  border-style:none;
+  background-color: lightblue;
+  color:white;
+  padding:15px;
+  border-radius: 10px;
+}
+.button:hover{
+  background-color: lightyellow;
+  color:lightblue;
+  cursor:pointer;
+}
+a:hover{
+  color:white;
+}
+.bottom-container{
+  background-color: #5db9b9;
+  padding:50px;
+}
+
+hr{
+  border-style:dotted;
+  width:5%;
+  border-width:10px;
+  color: lightgray;
+  border-bottom:none;
+  margin-top:50px;
+}
+.copyrights{
+  color:#EAF6F6;
+}
+.footer-link{
+  color:#214446;
+}
